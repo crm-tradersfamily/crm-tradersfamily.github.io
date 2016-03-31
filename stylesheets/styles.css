@@ -55,7 +55,7 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #CBD0D3;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -93,7 +93,7 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:#3D566E;
 }
 
 a small {
@@ -109,7 +109,8 @@ a:hover small {
 
 .wrapper {
   width:860px;
-  margin:0 auto;
+  /*margin:0 auto;*/
+ margin:0 ;
 }
 
 blockquote {
