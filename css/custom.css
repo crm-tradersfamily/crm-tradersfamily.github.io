@@ -5,6 +5,9 @@ body.nav-sm .container.body .left_col {
   height: 100%;
   z-index: 200;
 }
+p {
+	text-align: justify;
+}
 body.nav-sm .container.body .right_col {
   padding: 10px 20px;
   margin-left: 70px;
